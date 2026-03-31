@@ -1,6 +1,7 @@
 BSServer
 ========
 
+IT PROCESS
 Open implementation of a server for Brawl Stars v26
 written in Go.
 
