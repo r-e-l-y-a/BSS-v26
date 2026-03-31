@@ -1,0 +1,43 @@
+BSserver
+========
+
+Open implementation of a server for Brawl Stars v26
+written in Go.
+
+
+Overview
+--------
+
+This project provides a minimal Brawl Stars server implementation intended
+for research, learning, and experimentation.
+It implements basic networking and battle handling logic and is
+designed to be simple, lightweight, and easy to modify.
+
+
+Quick Start
+-----------
+
+TODO:
+* Docker support
+* Build and run instructions
+
+
+License
+-------
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this software, including
+in closed-source projects, provided that the original copyright
+notice is included.
+
+
+Disclaimer
+----------
+
+This project is not affiliated with Supercell.
+
+Brawl Stars is a trademark of Supercell.
+
+This is an open implementation and does not represent the original
+server used by Supercell. It is provided for educational purposes only.
